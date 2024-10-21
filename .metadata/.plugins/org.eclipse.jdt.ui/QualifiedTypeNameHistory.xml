@@ -4,4 +4,8 @@
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
     <fullyQualifiedTypeName name="javax.swing.JCheckBox"/>
     <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="javax.swing.border.LineBorder"/>
+    <fullyQualifiedTypeName name="javax.swing.JScrollPane"/>
+    <fullyQualifiedTypeName name="javax.swing.ListSelectionModel"/>
+    <fullyQualifiedTypeName name="javax.swing.ImageIcon"/>
 </qualifiedTypeNameHistroy>
